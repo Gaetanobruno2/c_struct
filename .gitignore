@@ -1,3 +1,2 @@
-bst.o
-main.o
+*.o
 main
